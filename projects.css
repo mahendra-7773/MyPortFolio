@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+#projects {
+    padding: 20px;
+    background-color: #fff;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+.project h3 {
+    margin: 0 0 10px 0;
+}
+
+.project p {
+    margin: 0 0 10px 0;
+}
+
+.project a {
+    text-decoration: none;
+    color: #007bff;
+    margin-right: 10px;
+}
+
+.project a:hover {
+    text-decoration: underline;
+}
